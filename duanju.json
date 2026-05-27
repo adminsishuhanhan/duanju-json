@@ -503,7 +503,7 @@
     {
       "host": "*",
       "rule": [
-        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rmvb|wmv|mpg|m4a)"
       ]
     },
     {
@@ -948,7 +948,7 @@
     "vivovip.mmszxc.top",
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
-    "shturl.cc/0I9d"
+    "shturl.cc/atk1"
   ],
   "wallpaper": "http://74.120.175.78/JK/api/bg/"
 }
